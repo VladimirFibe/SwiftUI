@@ -65,12 +65,9 @@
 		0231BEC5296C237300892EDD /* TaskPlanner */ = {
 			isa = PBXGroup;
 			children = (
-				0231BEDE296C24D400892EDD /* Info.plist */,
-				0231BED4296C23FA00892EDD /* Fonts */,
+				0231BEE2296C28A200892EDD /* Supporting Files */,
 				0231BEC6296C237300892EDD /* TaskPlannerApp.swift */,
 				0231BEC8296C237300892EDD /* ContentView.swift */,
-				0231BECA296C237500892EDD /* Assets.xcassets */,
-				0231BECC296C237500892EDD /* Preview Content */,
 			);
 			path = TaskPlanner;
 			sourceTree = "<group>";
@@ -100,6 +97,17 @@
 				0231BEE0296C269300892EDD /* 01.png */,
 			);
 			path = img;
+			sourceTree = "<group>";
+		};
+		0231BEE2296C28A200892EDD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0231BEDE296C24D400892EDD /* Info.plist */,
+				0231BECA296C237500892EDD /* Assets.xcassets */,
+				0231BED4296C23FA00892EDD /* Fonts */,
+				0231BECC296C237500892EDD /* Preview Content */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
